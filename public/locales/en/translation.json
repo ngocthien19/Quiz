@@ -1,0 +1,134 @@
+{
+    "homepage": {
+        "title1": "Make forms worth filling out",
+        "desc": "Get more data—like signups, feedback, and anything else—with forms designed to be refreshingly different.",
+        "btn_action": {
+            "login": "Get started-it's free",
+            "doing": "Doing Quiz Now"
+        }
+    },
+    "header": {
+        "home": "Home",
+        "users": "Users",
+        "admin": "Admin",
+        "quiz": "Quiz"
+    },
+    "listQuiz": {
+        "quiz": "Quiz",
+        "button": "Start now",
+        "desc": "You don't have any quiz now..."
+    },
+    "navDropdownSetting": {
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "user": "User management",
+        "quiz": "Quiz management",
+        "question": "Question management",
+        "view": "View Source"
+    },
+    "login_signup": {
+        "login": "Log in",
+        "signup": "Sign up"
+    },
+    "dashboard": {
+        "title": "Analytics DashBoard",
+        "desc": "Welcome! We always pick up mist.",
+        "user": "Total Users",
+        "question": "Total Questions",
+        "quiz": "Total Quizzes",
+        "answer": "Total Answers"
+    },
+    "manageUser": {
+        "title": "Manage User",
+        "button": "Add new users"
+    },
+    "table": {
+        "username": "Username",
+        "role": "Role",
+        "action": "Action",
+        "view": "View",
+        "update": "Update",
+        "delete": "Delete",
+        "not_found": "Not found data"
+    },
+    "manageQuiz": {
+        "title":"Management Quizzes",
+        "legend": "Add New Quiz:",
+        "name": "Name",
+        "desc": "Description",
+        "image": "Upload Image",
+        "save": "Save",
+        "update": "Update Q/A",
+        "assign": "Assign to Users"
+    },
+    "tableQuiz": {
+        "name": "Name",
+        "desc": "Description",
+        "type": "Type",
+        "action": "Action",
+        "edit": "Edit",
+        "delete": "Delete",
+        "list": "List Quizzes:"
+    },
+    "quizQA": {
+        "select": "Select Quiz:",
+        "add": "Add Questions:",
+        "question": "Question",
+        "char": "'s",
+        "description": "description",
+        "image": "Upload Image",
+        "answer": "Answer",
+        "save": "Save Questions"
+    },
+    "assign": {
+        "select": "Select Quiz:",
+        "user": "Select User:",
+        "button": "Assign"
+    },
+    "questions": {
+        "title": "Manage Questions",
+        "select": "Select Quiz:",
+        "add": "Add Questions:",
+        "question": "Question",
+        "char": "'s",
+        "description": "description",
+        "image": "Upload Image",
+        "answer": "Answer",
+        "save": "Save Questions",
+        "upload": "0 file is uploaded"
+    },
+    "profile": {
+        "title": "User information management",
+        "close": "Close"
+    },
+    "info": {
+        "email": "Email",
+        "username": "Username",
+        "role": "Role",
+        "image": "Upload file Image",
+        "preview": "Preview Image",
+        "button": "Update"
+    },
+    "password": {
+        "current": "Current Password",
+        "new": "New Password",
+        "confirm": "Confirm Password"
+    },
+    "history": {
+        "name": "Quiz Name",
+        "question": "Total Question",
+        "correct": "Total Correct",
+        "date": "Date",
+        "not_found": "Not found data"
+    },
+    "quiz": {
+        "result": "Your result",
+        "total-question": "Total Question",
+        "total-correct": "Total Correct",
+        "show-answer": "Show Answer",
+        "close": "Close"
+    }
+}

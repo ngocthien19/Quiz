@@ -1,0 +1,33 @@
+
+.info-container {
+    .img-review {
+        border: 1px dashed #ccc;
+        height: 150px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ccc;
+        margin-bottom: 10px;
+
+        img {
+            max-height: 100%;
+            max-width: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .label-upload {
+        display: inline-flex;
+        gap: 5px;
+        align-items: center;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px 8px;
+        cursor: pointer;
+
+        &:hover {
+            opacity: 0.85;
+        }
+    }
+}

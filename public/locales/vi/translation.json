@@ -1,0 +1,135 @@
+{
+    "homepage": {
+        "title1": "Tạo các biểu mẫu đáng để điền vào",
+        "desc": "Nhận được nhiều dữ liệu hơn — như đăng ký, phản hồi và bất kỳ dữ liệu nào khác — với các biểu mẫu được thiết kế hoàn toàn khác biệt.",
+        "btn_action": {
+            "login": "Bắt đầu-đó là miễn phí",
+            "doing": "Bắt đầu làm Quiz"
+        }
+    },
+    "header": {
+        "home": "Trang chủ",
+        "users": "Người dùng",
+        "admin": "Quản lý",
+        "quiz": "Câu đố"
+    },
+    "listQuiz": {
+        "quiz": "Câu đố",
+        "button": "Bắt đầu",
+        "desc": "Bạn chưa có câu đố nào..."
+    },
+    "navDropdownSetting": {
+        "profile": "Thông tin cá nhân",
+        "logout": "Đăng xuất"
+    },
+    "sidebar": {
+        "dashboard": "Trang tổng quan",
+        "user": "Quản lý người dùng",
+        "quiz": "Quản lý câu đố",
+        "question": "Quản lý câu hỏi",
+        "view": "Nguồn tham khảo"
+    },
+    "login_signup": {
+        "login": "Đăng nhập",
+        "signup": "Đăng kí"
+    },
+    "dashboard": {
+        "title": "Thống kê",
+        "desc": "Chào mừng! Chúng tôi luôn chào đoán bạn.",
+        "user": "Tổng người dùng",
+        "question": "Tổng câu hỏi",
+        "quiz": "Tổng câu đố",
+        "answer": "Tổng câu trả lời"
+    },
+    "manageUser": {
+        "title": "Quản lý người dùng",
+        "button": "Thêm người dùng mới"
+    },
+    "table": {
+        "username": "Tên người dùng",
+        "role": "Vai trò",
+        "action": "Hành động",
+        "view": "Xem",
+        "update": "Cập nhật",
+        "delete": "Xóa",
+        "not_found": "Không tìm thấy dữ liệu"
+    },
+    "manageQuiz": {
+        "title":"Quản lý câu đố",
+        "legend": "Thêm câu đố mới:",
+        "name": "Tên",
+        "desc": "Mô tả",
+        "image": "Tải ảnh lên",
+        "save": "Lưu",
+        "update": "Cập nhật Q/A",
+        "assign": "Chỉ định cho người dùng"
+    },
+    "tableQuiz": {
+        "name": "Tên",
+        "desc": "Mô tả",
+        "type": "Loại",
+        "action": "Hành động",
+        "edit": "Sửa",
+        "delete": "Xóa",
+        "list": "Danh sách câu đố:"
+    },
+    "quizQA": {
+        "select": "Chọn câu đố:",
+        "add": "Thêm câu hỏi:",
+        "question": "Câu hỏi",
+        "char": ": ",
+        "description": "Mô tả",
+        "image": "Tải ảnh lên",
+        "answer": "Câu trả lời",
+        "save": "Lưu câu hỏi"
+    },
+    "assign": {
+        "select": "Chọn câu đố:",
+        "user": "Chọn người dùng:",
+        "button": "Chỉ định"
+    },
+    "questions": {
+        "title": "Quản lý câu hỏi",
+        "select": "Chọn câu đố:",
+        "add": "Thêm câu hỏi:",
+        "question": "Câu hỏi",
+        "char": ": ",
+        "description": "Mô tả",
+        "image": "Tải ảnh lên",
+        "answer": "Câu trả lời",
+        "save": "Lưu câu hỏi",
+        "upload": "Không có tệp nào"
+    },
+    "profile": {
+        "title": "Quản lý thông tin người dùng",
+        "close": "Đóng"
+    },
+    "info": {
+        "email": "Email",
+        "username": "Tên người dùng",
+        "role": "Vai trò",
+        "image": "Tải ảnh lên",
+        "preview": "Xem trước hình ảnh",
+        "button": "Cập nhật"
+    },
+    "password": {
+        "current": "Mật khẩu hiện tại",
+        "new": "Mật khẩu mới",
+        "confirm": "Xác nhận mật khẩu"
+    },
+    "history": {
+        "name": "Tên câu đố",
+        "question": "Tổng câu hỏi",
+        "correct": "Tổng đáp án đúng",
+        "date": "Ngày",
+        "not_found": "Không có dữ liệu"
+    },
+    "quiz": {
+        "result": "Kết quả của bạn",
+        "total-question": "Tổng câu hỏi",
+        "total-correct": "Tổng câu trả lời đúng",
+        "show-answer": "Hiển thị đáp án",
+        "close": "Đóng"
+    }
+
+}

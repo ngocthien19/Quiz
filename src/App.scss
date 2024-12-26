@@ -1,0 +1,132 @@
+
+
+body {
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.languages {
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1350px !important;
+    }
+}
+
+.app-container {
+
+  .app-content {
+    display: inline-block;
+    height: calc(100vh - 60px);
+    margin-left: 90px;
+    padding: 20px 10px;
+  }  
+
+  .header-container {
+    .icon-react {
+      font-size: 25px;
+      color: #00bfff;
+      margin-right: 5px;
+      animation: rotate 5s infinite linear;
+    }
+
+    @keyframes rotate {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .btn-login {
+      height: 40px;
+      border-radius: 12px;
+      margin-right: 15px;
+      padding: 0 15px;
+      border: 1px solid #535353;
+      color: rgb(25, 25, 25);
+      background-color: transparent;
+      transition: all linear 0.25s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    .btn-signup {
+      height: 40px;
+      border-radius: 12px;
+      font-weight: 600;
+      padding: 0 15px;
+      background-color: #191919;
+      color: #fff;
+      border: 1px solid transparent;
+      transition: all linear 0.25s;
+
+      &:hover {
+        background-color: #565656;
+      }
+    }
+
+    .navbar {
+
+      padding-top: 20px;
+      background-color: rgba(0, 0, 0, 0) !important;
+
+      .nav-link.active {
+        color: #00bfff;
+      }
+    }
+  }
+
+  .homepage-container {
+    display: flex;
+    align-items: center;
+
+    .homepage-content {
+      margin-left: 50px;
+    }
+
+    .title {
+      font-weight: 400;
+      width: 540px;
+      font-size: 80px;
+      letter-spacing: -0.02em;
+      line-height: 1;
+    }
+
+    .desc {
+      margin-top: 32px;
+      width: 496px;
+      font-size: 20px;
+      letter-spacing: -0.01em;
+      line-height: 1.2;
+    }
+
+    .btn-action {
+      margin-top: 28px;
+      border-radius: 12px;
+      border: 1px solid transparent;
+      font-size: 18px;
+      color: #fff;
+      background-color: #191919;
+      padding: 12px 21px;
+
+      &:hover {
+        background-color: #363636;
+      }
+    }
+  }
+}
+
